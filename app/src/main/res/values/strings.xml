@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="exit">exit</string>
+    <string name="rananganam">RANANGANAM</string>
+    <string name="setting">Setting</string>
+    <string name="play">Play</string>
+</resources>
